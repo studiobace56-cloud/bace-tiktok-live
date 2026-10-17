@@ -1,19 +1,19 @@
 {
-  "checked_at": "2000-01-01T00:00:00+00:00",
+  "checked_at": "2026-10-17T13:27:21.476297+00:00",
   "profiles": [
     {
       "handle": "lo6iq_pi4",
-      "status": "unknown",
+      "status": "offline",
       "viewers": null
     },
     {
       "handle": "kristiqnagenova",
-      "status": "unknown",
+      "status": "offline",
       "viewers": null
     },
     {
       "handle": "vivi_love350",
-      "status": "unknown",
+      "status": "live",
       "viewers": null
     }
   ]
