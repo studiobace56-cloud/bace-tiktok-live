@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-10-24T18:23:10.654077+00:00",
+  "checked_at": "2026-10-24T18:55:47.927527+00:00",
   "profiles": [
     {
       "handle": "lo6iq_pi4",
-      "status": "offline",
+      "status": "unknown",
       "viewers": null
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "handle": "vivi_love350",
-      "status": "offline",
+      "status": "unknown",
       "viewers": null
     }
   ]
