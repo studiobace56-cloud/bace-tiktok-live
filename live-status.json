@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T20:48:45.128747+00:00",
+  "checked_at": "2026-10-25T21:09:24.675169+00:00",
   "profiles": [
     {
       "handle": "lo6iq_pi4",
@@ -8,12 +8,12 @@
     },
     {
       "handle": "kristiqnagenova",
-      "status": "offline",
+      "status": "unknown",
       "viewers": null
     },
     {
       "handle": "vivi_love350",
-      "status": "unknown",
+      "status": "live",
       "viewers": null
     }
   ]
